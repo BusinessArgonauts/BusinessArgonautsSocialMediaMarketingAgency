@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>ARGONAUTS Marketing Aagency</title>
+</head>
+
+    <body>
+        <header>
+            <h1>BUSINESS ARGONAUTS</h1>
+            <p>Social Media Marketing Agency</p>
+        </header>
+    
+        <main>
+            <section class="team-photo">
+                <h2>OUR TEAM</h2>
+                <div><img src="img/Team_photo.jpeg"></div>
+            </section>
+    <!-- First team member -->
+    <div>
+
+	<div class="aaa">If you do not know how to attract your customer, 
+	make more profit, Come join us!
+	We will happy to  build your portfolio showcasing successful 
+	strategies on your product and services. 
+	Our team are ready to help with social media marketing.</div>
+
+        <h2>Meet Our Members</h2>
+
+        <section class="team-members">
+
+          <div class="member-card">
+            <img src="img/Khasan.jpg" alt="Team Leader" class="member-photo">
+            <h3>KHASAN SOLIJONOV</h3>
+            <li>Role: Business Development and Strategy</li>
+            <li>Email: khasan@gmail.com</li>
+            <li>Hobbies: Drawing, Reading</li>
+			<Li><a href="http://www.naver.com" target="_blank">www.aaa.com</a></li>
+          </div>
+
+          <div class="member-card">
+            <img src="img/Oyunbat.JPG" alt="Team Member 1" class="member-photo">
+            <h3>OYUNBAT BARKHUU</h3>
+            <li>Role: Affiliate Marketer, Team coordinator</li>
+            <li>Email: oyunbat.b@smit.kr</li>
+            <li>Hobbies: Reading, Swimming</li>
+			<Li><a href="http://www.naver.com" target="_blank">www.aaa.com</a></li>
+          </div>
+
+          <div class="member-card">
+            <img src="img/Kozimbek.jpg" alt="Team Member 2" class="member-photo">
+            <h3>KOZIMBEK </h3>
+            <li>Role: Client Communication Manager</li>
+            <li>Email: vasiyjonovkozimbek@gmail.com</li>
+            <li>Hobbies: Playing football, Reading</li>
+			<li><a href="http://www.naver.com" target="_blank">www.aaa.com</a></li>
+          </div> 
+
+		</section>
+
+		<section class="team-members">
+
+          <div class="member-card">
+            <img src="img/Azizbek.jpg" alt="Team member 3" class="member-photo">
+            <h3>AZIZBEK</h3>
+            <li>Role: Digital creator, Designer</li>
+            <li>Email: azizbekmamajonov0077@gmail.com</li>
+            <li>Hobbies: Painting, PUBG professional</li>
+          </div>
+
+          <div class="member-card">
+            <img src="img/Inomjon.jpg" alt="Team Member 4" class="member-photo">
+            <h3>INOMJON</h3>
+            <li>Role: Developer, Coordinator</li>
+            <li>Email: inomjonabduxoliqov1@gmail.com</li>
+            <li>Hobbies: Reading, Running</li>
+          </div>
+
+
+          <div class="member-card">
+            <img src="img/shahboz.jpg" alt="Team Member 5" class="member-photo">
+            <h3>SHAHBOZ</h3>
+            <li>Role: Design, developer</li>
+            <li>Email: shahbozabdihalimov@gmail.com</li>
+            <li>Hobbies: Sport, shopping</li>
+          </div> 
+
+		</section>
+
+        </main>
+    
+        <footer>
+            <p>&copy; 2025 Business Argonauts Team. Created for Web Development Class.</p>
+        </footer>
+    </body>
+    
+</html>
